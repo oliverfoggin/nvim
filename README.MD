@@ -9,7 +9,7 @@ This setup uses a combination of set ups from two different tutorials...
 
 If you've got in a tangle with a previous installation of nvim and want to start again then you can do... `rm -rf ~/.config/nvim` and it will delete everything.
 
-0. Clone this repo into your {HOME} directory.
+0. Clone this repo into `~/.config/nvim`.
 1. Follow the steps from the "terminal-setup" link above.
 2. You will need to install various apps using `brew`. Uses these commands...
 
