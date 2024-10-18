@@ -46,6 +46,7 @@ This is where I ran into trouble with Mac blocking certain parts of the app.
 
 9. Run this command in terminal...
 ```
+cd ~/Utils/codelldb-darwin-arm64/extension/adapter`
 ./codelldb --port 13000
 ```
 For me this gave me an error and popped up a dialog in MacOS from the Gatekeeper blocking this from running.
