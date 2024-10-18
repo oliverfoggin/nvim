@@ -31,6 +31,8 @@ pipx install pymobiledevice3
 brew install swiftlint
 ```
 
+For me, the `pymobiledevice3` install failed. I don't think that matters though.
+
 3. Download the latest `darwin` compatible release from here... https://github.com/vadimcn/codelldb/releases.
 4. Save it to `~/Utils`.
 5. Rename it to change the file extension from "vsix" to "zip".
