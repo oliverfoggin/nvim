@@ -23,6 +23,11 @@ brew install node
 brew install jesseduffield/lazygit/lazygit
 // The rest is from Wojciech's site with some extras that I needed to do also.
 brew install xcode-build-server
+brew install xcbeautify
+brew install ruby
+brew install pipx
+gem install xcodeproj
+pipx install pymobiledevice3
 brew install swiftlint
 ```
 
